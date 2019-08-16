@@ -17,7 +17,8 @@ San Diego, Ca | hhunter@ucsd.edu | /in/racehunter
 * Create React web app to manage firmware packages for a new update system
 
 ### Firmware Developer and Principal Tester
-**Vision Drive** Quadcopter Class (CSE 176) Spring 2019
+**Vision Drive** [Quadcopter Class](./Coursework/Quadcopter/) (CSE 176) Spring 2019  
+
 * Create libraries for Eagle software, design and manufacture custom PCB
 * Place components on custom board and install bootloader
 * Implement finite state machine for remote and quadcopter firmware
@@ -38,7 +39,6 @@ San Diego, Ca | hhunter@ucsd.edu | /in/racehunter
 
 
 ## Education
-***
 ### University of California, San Diego - La Jolla, Ca
 **Bachelor of Science, Computer Engineering**  
 Business Minor  
