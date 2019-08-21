@@ -24,7 +24,7 @@ San Diego, Ca | hhunter@ucsd.edu | /in/racehunter
 * Implement finite state machine for remote and quadcopter firmware
 
 ### Project Manager
-**Software Engineering Principles Class** (CSE 110) Winter 2019
+**Software Engineering Principles Class** (CSE 110) [NERDs](./Coursework/NERDs%20Documents) Winter 2019
 * Develop and enforce project deadlines
 * Train team members, assign tasks, interface with client
 
