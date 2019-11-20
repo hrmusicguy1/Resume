@@ -4,22 +4,23 @@ San Diego, Ca | hhunter@ucsd.edu | [/in/racehunter](https://www.linkedin.com/in/
 ---
 
 ## Skills
-**Languages** -- C/C++, Java, React.JS, Redux  
-**Tools** -- git, Trello/Asana/Jira, agile workflow, Eagle PCB  
+**Languages** -- C / C++, Java / Futures, React.JS / Redux  
+**Tools** -- git, Trello / Asana / Jira, Eagle PCB, IntelliJ, VS code  
 **Hardware** -- Verilog, digital logic, analog circuit analysis  
 **Communication**  -- Technical documents and other written communications, respect, empathy, clarity  
-**Collaboration** -- Punctual, tactfully manage conflicts, debate engineering processes  
+**Collaboration** -- Punctual, tactfully manage conflicts, debate engineering processes, agile  
 **Management** -- Project proposals, training, delegation, scheduling, project finance  
 **Work Ethic** -- Motivated, calm, goal-oriented, problem-solver, self-sufficient
 
 ---
 
 ## Experience
-### **Software Engineer Intern Part-Time**, Fitbit, Inc (September 2019 - December 2019)
-* Create new Java microservice for backend management
+### Fitbit, Inc
+* **Software Engineer Intern Part-Time** (September 2019 - December 2019)
+    * Create new Java microservice for backend management
 
-### **Software Engineer Intern Full-Time**, Fitbit, Inc (June 2019 - September 2019)
-* Create React web app to manage firmware packages for a new update system
+* **Software Engineer Intern Full-Time** (June 2019 - September 2019)
+    * Create React web app to manage firmware packages for a new update system
 
 ### **Firmware Developer and Principal Tester** Vision Drive
  [Quadcopter Class](./Coursework/Quadcopter/) (CSE 176) Spring 2019  
@@ -46,7 +47,7 @@ San Diego, Ca | hhunter@ucsd.edu | [/in/racehunter](https://www.linkedin.com/in/
 ### University of California, San Diego - La Jolla, Ca
 **Bachelor of Science, Computer Engineering**  
 Business Minor  
-*Expected Graduation June 2021*
+*Expected Graduation December 2020*
 
 #### Coursework
 * Algorithms
