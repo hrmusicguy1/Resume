@@ -1,5 +1,5 @@
 # H. Race Hunter
-San Diego, Ca | hhunter@ucsd.edu | [/in/racehunter](https://www.linkedin.com/in/racehunter/)
+San Diego, Ca | hhunter@ucsd.edu | [/in/racehunter](https://www.linkedin.com/in/racehunter/) | US Citizen
 
 ---
 
@@ -17,15 +17,17 @@ San Diego, Ca | hhunter@ucsd.edu | [/in/racehunter](https://www.linkedin.com/in/
 ## Experience
 ### Fitbit, Inc
 * **Software Engineer Intern Part-Time** (September 2019 - December 2019)
-    * Create new Java microservice for backend management
+    * Create new Java microservice for backend and supporting feature updates for web app
 
 * **Software Engineer Intern Full-Time** (June 2019 - September 2019)
-    * Create React web app to manage firmware packages for a new update system
+    * Create React web app to manage firmware packages for deployment to consumer devices
+    * Increased accessibility to allow those unfamiliar with CLI tools and reduce developer workload
+
 
 ### **Firmware Developer and Principal Tester** Vision Drive
  [Quadcopter Class](./Coursework/Quadcopter/) (CSE 176) Spring 2019  
 
-* Create libraries for Eagle software, design and manufacture custom PCB
+* Use Eagle software to design and manufacture a custom PCB
 * Place components on custom board and install bootloader
 * Implement finite state machine for remote and quadcopter firmware
 
@@ -47,9 +49,11 @@ San Diego, Ca | hhunter@ucsd.edu | [/in/racehunter](https://www.linkedin.com/in/
 ### University of California, San Diego - La Jolla, Ca
 **Bachelor of Science, Computer Engineering**  
 Business Minor  
-*Expected Graduation December 2020*
+*Expected Graduation March 2021*
 
 #### Coursework
+* Intro to Computer Architecture
+* Programming Languages
 * Algorithms
 * Theory of Computation
 * Advanced Data Structures
