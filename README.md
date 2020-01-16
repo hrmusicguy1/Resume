@@ -4,7 +4,7 @@ San Diego, Ca | hhunter@ucsd.edu | [/in/racehunter](https://www.linkedin.com/in/
 ---
 
 ## Skills
-**Languages** -- C / C++, Java / Futures, React.JS / Redux  
+**Languages** -- C / C++, Java , React.JS  
 **Tools** -- git, Trello / Asana / Jira, Eagle PCB, IntelliJ, VS code  
 **Hardware** -- Verilog, digital logic, analog circuit analysis  
 **Communication**  -- Technical documents and other written communications, respect, empathy, clarity  
@@ -15,44 +15,44 @@ San Diego, Ca | hhunter@ucsd.edu | [/in/racehunter](https://www.linkedin.com/in/
 ---
 
 ## Experience
-### Fitbit, Inc
-* **Software Engineering Intern Part-Time** (September 2019 - December 2019)
-    * Create new Java microservice for backend and supporting feature updates for web app
+### **Fitbit, Inc**
+*Software Engineering Intern Part-Time* (September 2019 - December 2019)
+* Created new Java microservice for backend to support feature updates for web app
 
-* **Software Engineering Intern Full-Time** (June 2019 - September 2019)
-    * Created React web app to manage firmware packages for deployment to consumer devices
-    * Improved developer and tester workload through easier tools
+*Software Engineering Intern Full-Time* (June 2019 - September 2019)
+* Created React.JS web app to manage firmware packages for deployment to consumer devices
+* Improved developer and tester workload by replacing poorly maintained CLI tools
 
-
-
-### **Firmware Developer and Principal Tester** Vision Drive
- [Quadcopter Class](./Coursework/Quadcopter/) (CSE 176) Spring 2019  
+### **[Quadcopter Class](./Coursework/Quadcopter/)** (CSE 176) Spring 2019  
+*In a team of 2*
 
 * Designed and manufactured a custom PCB using EAGLE software
 * Soldered components on custom board and installed bootloader
 * Implemented finite state machine for remote and quadcopter firmware
 
 
-### **Project Manager** Software Engineering Principles Class  
-[NERDs](./Coursework/NERDs%20Documents) (CSE 110) Winter 2019
+### **[Software Engineering Principles](./Coursework/NERDs%20Documents)** (CSE 110) Spring 2019
+*Project Manager*
 * Developed and enforced project deadlines
 * Trained team members, assigned tasks, interfaced with client
 
 
-### **Business Owner** Race to the Top / Low Flying HiFi
+### **Race to the Top**
+*Business Owner*
 * Sourced and sold antique audio components
 * Drafted and secured contracts for industrial surveillance equipment
 * Freelance web developer
 
-### **Webmaster** Triton Rocket Club at UC San Diego (Oct 2013 – Jun 2015)
+### **Triton Rocket Club** at UC San Diego (Oct 2013 – Jun 2015)
+*Webmaster*
 
 ---
 
 ## Education
-### University of California, San Diego - La Jolla, Ca
-**Bachelor of Science, Computer Engineering**  
+### University of California, San Diego - *Expected Graduation March 2021*
+**Bachelor of Science, Computer Engineering** - *Current GPA 3.18*  
 Business Minor  
-*Expected Graduation March 2021*
+
 
 #### Coursework
 * Intro to Computer Architecture
