@@ -39,7 +39,6 @@ San Diego, Ca | hhunter@ucsd.edu | [/in/racehunter](https://www.linkedin.com/in/
 
 ### **Race to the Top**
 *Business Owner*
-* Sourced and sold antique audio components
 * Drafted and secured contracts for industrial surveillance equipment
 * Freelance web developer
 
