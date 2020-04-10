@@ -20,8 +20,8 @@ Self-motivated computer engineering student experienced with enterprise developm
 ---
 
 ## Education
-### University of California, San Diego - *Expected Graduation March 2021*
-**Bachelor of Science, Computer Engineering** - *Current GPA 3.18*  
+### University of California, San Diego - *Expected Graduation December 2020*
+**Bachelor of Science, Computer Engineering** - *Current GPA 3.12*  
 Business Minor  
 
 
