@@ -4,13 +4,13 @@ San Diego, Ca | hhunter@ucsd.edu | [/in/racehunter](https://www.linkedin.com/in/
 ---
 
 ## Objective
-Self-motivated computer engineering student experienced with enterprise development tools and project management. Interested in always-on embedded systems, and large-scale, mission-critical software systems. Seeking full time summer internship.
+Self-motivated computer engineering student experienced with enterprise development tools and project management. Interested in always-on embedded systems, and large-scale, mission-critical software systems. Seeking full time entry level position starting in January 2021.
 
 ---
 
 ## Skills
 **Languages** -- C/C++, Java, Javascript/React.JS/JSON, Python   
-**Tools** -- git, Docker, Jenkins, Trello/Asana/Jira, EAGLE PCB, IntelliJ, VS code  
+**Tools** -- git, Docker, Jenkins, Trello/Asana/Jira, EAGLE PCB, Quartus Prime, IntelliJ, VS code  
 **Hardware** -- Verilog, digital logic, analog circuit analysis  
 **Communication**  -- Technical documents and other written communications, professional, respectful, empathetic, concise  
 **Collaboration** -- Punctual, tactfully manage conflicts, debate engineering processes, Agile workflow  
@@ -27,12 +27,15 @@ Business Minor
 
 #### Coursework
 * Intro to Computer Architecture
-* Programming Languages
-* Algorithms
+* Advanced Software Engineering
+* Health Care Robotics
+* Advanced Digital Design Project
 * Theory of Computation
 * Advanced Data Structures
-* Digital Logic Design + Lab
+* Programming Languages
+* Algorithms
 * Data Science Intro
+* Digital Logic Design + Lab
 * Components and Circuits
 * Linear Systems Fundamentals
 * Enterprise Finance
