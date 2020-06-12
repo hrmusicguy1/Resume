@@ -53,7 +53,7 @@ Self-motivated computer engineering student experienced with enterprise developm
 * Worked in a team of 2 to design, manufacture, and assemble a custom PCB using EAGLE software
 * Implemented various safety mechanisms to reduce operator injury, including safe startup, auto timeout, and interference rejection
 
-### **[Software Engineering Principles](./Coursework/NERDs%20Documents)** (CSE 110) Spring 2019
+### **[Software Engineering Principles](https://github.com/hrmusicguy1/hrmusicguy1.github.io/tree/master/Coursework/NERDs%20Documents)** (CSE 110) Spring 2019
 *Project Manager*
 * Lead a group of 10 to create a Java Android app for matching pet shelters and adopters
 * Developed and enforced project deadlines using Agile workflow
