@@ -1,5 +1,5 @@
 # H. Race Hunter
-San Diego, Ca | hhunter@ucsd.edu | [/in/racehunter](https://www.linkedin.com/in/racehunter/) | US Citizen
+San Diego, Ca | [/in/racehunter](https://www.linkedin.com/in/racehunter/)
 
 ---
 
